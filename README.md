@@ -6,7 +6,6 @@ Esse projeto foi bem legal de se fazer, por ser algo mais desafiador na questão
 
 Projeto hospedado: https://gustapng.github.io/pomodoro/
 
-<br>
 ![Captura da Web_31-8-2022_19151_gustapng github io](https://user-images.githubusercontent.com/102172136/187794871-2e02ac7e-a396-4895-973a-f2fbc06c91f0.jpeg)
 <br>
 ![Captura da Web_31-8-2022_1928_gustapng github io](https://user-images.githubusercontent.com/102172136/187794882-eb626011-f53b-4d4d-a434-2485d10b06a6.jpeg)
